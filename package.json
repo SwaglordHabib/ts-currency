@@ -1,0 +1,35 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "build": "rimraf dist && tsc && rollup -c rollup.config.js"
+  },
+  "devDependencies": {
+    "@rollup/plugin-json": "^6.0.0",
+    "rimraf": "^5.0.0",
+    "rollup": "^3.21.6",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.0.0",
+    "path": "^0.12.7",
+    "xml2js": "^0.5.0"
+  },
+  "type": "module",
+  "name": "ts-currency",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwaglordHabib/ts-currency.git"
+  },
+  "keywords": [
+    "currency",
+    "currency codes"
+  ],
+  "author": "Swaglord Habib",
+  "bugs": {
+    "url": "https://github.com/SwaglordHabib/ts-currency/issues"
+  },
+  "homepage": "https://github.com/SwaglordHabib/ts-currency#readme"
+}
