@@ -90,7 +90,7 @@
       "code": "AUD",
       "country": "AUSTRALIA",
       "decimals": 2,
-      "symbol": "AU$"
+      "symbol": "A$"
     },
     {
       "name": "Euro",
@@ -352,14 +352,14 @@
       "code": "AUD",
       "country": "CHRISTMAS ISLAND",
       "decimals": 2,
-      "symbol": "AU$"
+      "symbol": "A$"
     },
     {
       "name": "Australian Dollar",
       "code": "AUD",
       "country": "COCOS (KEELING) ISLANDS (THE)",
       "decimals": 2,
-      "symbol": "AU$"
+      "symbol": "A$"
     },
     {
       "name": "Colombian Peso",
@@ -749,7 +749,7 @@
       "code": "AUD",
       "country": "HEARD ISLAND AND McDONALD ISLANDS",
       "decimals": 2,
-      "symbol": "AU$"
+      "symbol": "A$"
     },
     {
       "name": "Euro",
@@ -896,7 +896,7 @@
       "code": "AUD",
       "country": "KIRIBATI",
       "decimals": 2,
-      "symbol": "AU$"
+      "symbol": "A$"
     },
     {
       "name": "North Korean Won",
@@ -1195,7 +1195,7 @@
       "code": "AUD",
       "country": "NAURU",
       "decimals": 2,
-      "symbol": "AU$"
+      "symbol": "A$"
     },
     {
       "name": "Nepalese Rupee",
@@ -1258,7 +1258,7 @@
       "code": "AUD",
       "country": "NORFOLK ISLAND",
       "decimals": 2,
-      "symbol": "AU$"
+      "symbol": "A$"
     },
     {
       "name": "US Dollar",
@@ -1335,7 +1335,7 @@
       "code": "PHP",
       "country": "PHILIPPINES (THE)",
       "decimals": 2,
-      "symbol": "PHP"
+      "symbol": "₱"
     },
     {
       "name": "New Zealand Dollar",
@@ -1681,7 +1681,7 @@
       "code": "THB",
       "country": "THAILAND",
       "decimals": 2,
-      "symbol": "฿"
+      "symbol": "THB"
     },
     {
       "name": "US Dollar",
@@ -1751,7 +1751,7 @@
       "code": "AUD",
       "country": "TUVALU",
       "decimals": 2,
-      "symbol": "AU$"
+      "symbol": "A$"
     },
     {
       "name": "Uganda Shilling",
@@ -1957,7 +1957,7 @@
       "code": "XXX",
       "country": "ZZ07_No_Currency",
       "decimals": null,
-      "symbol": "XXX"
+      "symbol": "¤"
     },
     {
       "name": "Gold",
