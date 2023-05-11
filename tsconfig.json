@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
-        "target": "es2018",
-        "module": "esnext",
+        "target": "ESNext",
+        "module": "ESNext",
         "moduleResolution": "node",
         "noEmitOnError": true,
         "lib": [
@@ -9,10 +9,11 @@
         ],
         "strict": true,
         "esModuleInterop": false,
-        "outDir": "out-tsc",
+        "outDir": "build",
         "rootDir": "./",
         "resolveJsonModule": true,
         "allowSyntheticDefaultImports": true,
+        "declaration": true,
     },
     "include": [
         "./src/**/*.ts"
