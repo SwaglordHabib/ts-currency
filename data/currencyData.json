@@ -1,5 +1,5 @@
 {
-  "version": "2023-01-01",
+  "version": "2024-01-01",
   "currencies": [
     {
       "name": "Afghani",
@@ -1497,13 +1497,6 @@
       "country": "SEYCHELLES",
       "decimals": 2,
       "symbol": "SCR"
-    },
-    {
-      "name": "Leone",
-      "code": "SLL",
-      "country": "SIERRA LEONE",
-      "decimals": 2,
-      "symbol": "SLL"
     },
     {
       "name": "Leone",

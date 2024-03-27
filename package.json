@@ -20,7 +20,7 @@
   },
   "type": "module",
   "name": "ts-currency",
-  "version": "1.0.0",
+  "version": "24.0.0",
   "main": "index.ts",
   "repository": {
     "type": "git",
